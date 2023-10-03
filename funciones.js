@@ -134,7 +134,6 @@ const insertarInventarioInicial = async () => {
 }
 
 // Funcion para obtener el inventario que hay en LocalStorage
-// Funcion para obtener el inventario que hay en LocalStorage
 const obtenerInventarioDeLS = () => {
    // Accedemos al item del localStorage
    const inventarioJSON = localStorage.getItem('Inventario')

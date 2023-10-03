@@ -169,11 +169,5 @@ btnRestore.addEventListener('click', () => {
   restore(inputFile)
 })
 
-// function eliminar(producto) {
-//   borrarProductoDeLS(producto,inventario)
-// }
-
-// d.addEventListener("DOMContentLoaded", render)
-
 
 
